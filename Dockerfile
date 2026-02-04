@@ -15,4 +15,4 @@ EXPOSE 8080
 
 
 # 5️⃣ Run the application
-ENTRYPOINT ["java", "-jar", "app.jar
+ENTRYPOINT ["java", "-jar", "app.jar"]
